@@ -1,7 +1,7 @@
 import sys
 from selenium import webdriver
 
-driver = webdriver.Firefox()
+driver = webdriver.MicrosoftEdge()
 
 # Log in
 
