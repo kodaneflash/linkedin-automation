@@ -31,7 +31,7 @@ python3 linkedin-bot.py
 
 On Windows and macOS:
 ```
-python linkedin-bot.py
+python linkedin-auto.py
 ```
 
 Disclaimer: Use this script with caution since Linkedin has a weekly limit of new connections and may block or flag your account.
