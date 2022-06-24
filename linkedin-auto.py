@@ -1,7 +1,7 @@
 import sys
 from selenium import webdriver
 
-driver = webdriver.MicrosoftEdge()
+driver = webdriver.Edge()
 
 # Log in
 
